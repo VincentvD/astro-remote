@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/natemoo-re/astro-remote.git"
+    "url": "git+https://github.com/VincentvD/astro-remote.git"
   },
   "keywords": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/natemoo-re/astro-remote/issues"
+    "url": "https://github.com/VincentvD/astro-remote/issues"
   },
-  "homepage": "https://github.com/natemoo-re/astro-remote#readme",
+  "homepage": "https://github.com/VincentvD/astro-remote#readme",
   "volta": {
     "node": "20",
     "pnpm": "9"
