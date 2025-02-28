@@ -1,5 +1,5 @@
 {
-  "name": "@VincentvD/astro-remote",
+  "name": "@vincentvd/astro-remote",
   "description": "Render remote HTML or Markdown content in Astro with full control over the output.",
   "type": "module",
   "version": "0.0.1",
