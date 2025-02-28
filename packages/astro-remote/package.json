@@ -36,20 +36,20 @@
   },
   "license": "MIT",
   "volta": {
-    "node": "18.19.0",
-    "pnpm": "8.14.1"
+    "node": "20",
+    "pnpm": "9"
   },
   "engines": {
-    "node": ">=18.14.1"
+    "node": ">=20"
   },
   "dependencies": {
     "entities": "^4.5.0",
-    "marked": "^12.0.0",
-    "marked-footnote": "^1.2.2",
-    "marked-smartypants": "^1.1.6",
+    "marked": "^13.0.0",
+    "marked-footnote": "^1.2.4",
+    "marked-smartypants": "^1.1.9",
     "ultrahtml": "^1.5.3"
   },
   "devDependencies": {
-    "astro": "^4.0.0"
+    "astro": "^5.0.0"
   }
 }
